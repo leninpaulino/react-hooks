@@ -202,6 +202,42 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "thegoodsheppard",
+      "name": "Greg Sheppard",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13774377?v=4",
+      "profile": "https://github.com/thegoodsheppard",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RafaelDavisH",
+      "name": "Rafael D. Hernandez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6822714?v=4",
+      "profile": "https://rafaeldavis.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DallasCarraher",
+      "name": "Dallas Carraher",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4131693?v=4",
+      "profile": "http://dallascarraher.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "roni-castro",
+      "name": "Roni Castro",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24610813?v=4",
+      "profile": "https://github.com/roni-castro",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
